@@ -6,7 +6,7 @@
 pygsheets
 =========
 
-A simple, intutive library for google spreadsheets based on api v4 which gets most of your work done.
+A simple, intuitive library for Google spreadsheets based on api v4 which gets most of your work done.
 
 Features
 --------
@@ -15,7 +15,7 @@ Features
 - Open, create, delete and share spreadsheets using _title_
 - Control permissions of spreadsheets.
 - Extract range, entire row or column values.
-- Set cell format, text format, coloe, write notes
+- Set cell format, text format, color, write notes
 - NamedRanges Support
 - Do all the updates and push the changes in a batch
 
@@ -76,8 +76,8 @@ Installation
 Overview
 --------
 
-There are mainly 4 models - ``spreadsheet``, ``worksheet``, ``cell``, ``DataRange``  they are defined in their respectivr files.
-The communication with google api is implimented in ``client.py``. The client.py also impliments the autorization functions.
+There are mainly 4 models - ``spreadsheet``, ``worksheet``, ``cell``, ``DataRange``  they are defined in their respective files.
+The communication with google api is implimented in ``client.py``. The client.py also impliments the authorization functions.
 
 Authors and License
 -------------------
